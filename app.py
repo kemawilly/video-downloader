@@ -75,7 +75,7 @@ HTML_PAGE = """
         <input type="url" name="url" placeholder="Paste video URL here" required>
         <button type="submit">Download</button>
     </form>
-    <footer>Design by Kemawilly</footer>
+    <footer>Developed by Kemawilly</footer>
 </body>
 </html>
 """
